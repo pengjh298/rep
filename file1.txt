@@ -1,1 +1,1 @@
-update time=5
+update time=25
